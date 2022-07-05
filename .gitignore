@@ -95,6 +95,7 @@ dependency-reduced-pom.xml
 README.html
 
 # misc
+/.angular/cache
 /.sass-cache
 /connect.lock
 /coverage
